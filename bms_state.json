@@ -1,58 +1,58 @@
 {
   "shows": {
-    "PRHN|251807|20260718|GOLD": {
+    "PRHN|251812|20260719|GOLD": {
       "venue": "Prasads Multiplex: Hyderabad",
       "time": "08:00 AM",
-      "date": "20260718",
+      "date": "20260719",
       "cat": "GOLD",
-      "price": "295.00",
-      "status": "1"
-    },
-    "PRHN|252360|20260718|EXECUTIVE": {
-      "venue": "Prasads Multiplex: Hyderabad",
-      "time": "08:00 AM",
-      "date": "20260718",
-      "cat": "EXECUTIVE",
       "price": "295.00",
       "status": "2"
     },
-    "PRHN|251808|20260718|GOLD": {
+    "PRHN|252361|20260719|EXECUTIVE": {
+      "venue": "Prasads Multiplex: Hyderabad",
+      "time": "08:00 AM",
+      "date": "20260719",
+      "cat": "EXECUTIVE",
+      "price": "295.00",
+      "status": "3"
+    },
+    "PRHN|251813|20260719|GOLD": {
       "venue": "Prasads Multiplex: Hyderabad",
       "time": "11:35 AM",
-      "date": "20260718",
+      "date": "20260719",
       "cat": "GOLD",
       "price": "295.00",
       "status": "1"
     },
-    "PRHN|251809|20260718|GOLD": {
+    "PRHN|251814|20260719|GOLD": {
       "venue": "Prasads Multiplex: Hyderabad",
       "time": "03:10 PM",
-      "date": "20260718",
+      "date": "20260719",
       "cat": "GOLD",
       "price": "295.00",
       "status": "1"
     },
-    "PRHN|251810|20260718|GOLD": {
+    "PRHN|251815|20260719|GOLD": {
       "venue": "Prasads Multiplex: Hyderabad",
       "time": "06:45 PM",
-      "date": "20260718",
+      "date": "20260719",
       "cat": "GOLD",
       "price": "295.00",
       "status": "1"
     },
-    "PRHN|251811|20260718|GOLD": {
+    "PRHN|251816|20260719|GOLD": {
       "venue": "Prasads Multiplex: Hyderabad",
       "time": "10:20 PM",
-      "date": "20260718",
+      "date": "20260719",
       "cat": "GOLD",
       "price": "295.00",
-      "status": "1"
+      "status": "2"
     }
   },
   "dates": {
     "20260717": "AVAILABLE",
-    "20260718": "BOOKABLE",
-    "20260719": "AVAILABLE",
+    "20260718": "AVAILABLE",
+    "20260719": "BOOKABLE",
     "20260720": "AVAILABLE",
     "20260721": "AVAILABLE",
     "20260722": "AVAILABLE",
